@@ -1,0 +1,1 @@
+This project is a web scraper that extracts book information (title, price, stock status, rating, and link) from the "Books to Scrape" website using requests and BeautifulSoup, and then saves the data in a JSON file. It loops through multiple pages of the website to gather comprehensive data on available books.
